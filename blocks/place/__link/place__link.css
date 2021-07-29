@@ -6,8 +6,10 @@
   line-height: 1.22;
   color: white;
   text-underline-offset: 2px;
+  transition: opacity 0.4s;
 }
 
 .place__link:hover {
   opacity: 0.8;
+  transition: opacity 0.4s;
 }
