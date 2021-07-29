@@ -26,12 +26,12 @@
 
 @media screen and (max-width: 1000px) {
   .place {
-    grid-template-columns: 390px 1fr;
+    grid-template-columns: 1fr 1fr;
     column-gap: 30px;
   }
 }
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 800px) {
   .place {
     grid-template-columns: 340px 1fr;
     column-gap: 28px;
